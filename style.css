@@ -61,10 +61,11 @@
   }
   
   .footer {
-      padding-top: 10%;
-      background-color: black;
-      text-align: center;
-      color: white;
-      height: 200px;
-  }
+    padding: 30px;
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 50px;
+}
   
